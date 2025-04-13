@@ -1,0 +1,87 @@
+/* Google fonts import*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+/*Ganeral */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+
+/*General*/
+
+body {
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    /* genral color */
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Header*/
+
+header {
+    background-color: white;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    
+}
+
+header a {
+    text-decoration: none;
+}
+h1 {
+    font-size: 146%;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #3a3a3a;
+    text-align: center;
+}
+
+/* Navbar style*/
+
+nav{
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+}
+
+
+/*Main*/
+
+main {
+    background-color: lightgray;
+    /* make mail elemait take up asny surplus space to push the footer*/
+    flex: 1 0 auto;
+}
+
+#menu {
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+.active {
+    background-color: lightgreen;
+}
+
+
+/*Footer*/
+footer {
+    background-color: green;
+
+}
