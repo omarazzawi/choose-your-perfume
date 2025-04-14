@@ -8,7 +8,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
 
 
@@ -16,72 +16,221 @@
 
 body {
     min-height: 100vh;
-    display:flex;
+    display: flex;
     flex-direction: column;
     /* genral color */
-    color: black;
+    color: #272727;
     font-family: 'Roboto', sans-serif;
 }
 
 /*Header*/
 
 header {
-    background-color: white;
+    background-color: #597d71;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #272727;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    
+
+
 }
 
 header a {
     text-decoration: none;
 }
+
 h1 {
     font-size: 146%;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #3a3a3a;
+    color: #1c1c1c;
     text-align: center;
+}
+
+#menu {
+    letter-spacing: 2px;
+    list-style-type: none;    
+}
+
+#menu a{
+    color: #1c1c1c;
+    font-weight: 500;
+}
+
+
+.active {
+    border-bottom: 1px solid #454544;
 }
 
 /* Navbar style*/
 
-nav{
+nav {
     position: absolute;
-    background-color: white;
+    background-color:#597d71;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #1c1c1c;
+    display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
     display: none;
 }
 
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
+/* Styling the booking button*/
+
+
+#book-time {
+    border-style: outset;
+}
+
+#book-time:hover {
+    border: 3px solid #a35637;
+    background-color: #a35637;
+    
+
+}
 
 /*Main*/
 
+
 main {
-    background-color: lightgray;
-    /* make mail elemait take up asny surplus space to push the footer*/
+    
+    /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 78px;
 }
 
-#menu {
-    letter-spacing: 3px;
-    list-style-type: none;
-}
-.active {
-    background-color: lightgreen;
-}
+.video {
+    width: 100%;
+    height: 180px;
 
+}
 
 /*Footer*/
-footer {
-    background-color: green;
 
+footer {
+    background-color: #28353d
+}    
+
+
+.contact {
+    text-align: center;
+    padding-top: 15px;
+    color: #597d71;
+}
+
+#follow-us{
+    text-align: center;
+    padding-top: 10px;
+    color: #597d71;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #597d71;
+}
+
+
+
+
+/** Media query for Medium and large mobile screen (375px and up) */
+@media screen and (min-width: 375px) {
+
+    /* Header*/
+    header{
+        padding-bottom: 9px;
+    }
+    main {
+        margin-top: 60px;
+    }
+}
+
+
+
+/** Media query tablets and larger screen (768px and up) */
+
+@media screen and (min-width: 768px) {
+
+    /* Header*/
+    header {
+        padding-bottom: 0px;      
+    }
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        
+    }
+
+    #menu {
+        display: flex;
+        padding-top: 1rem;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+        font-size: 100%;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    /* Main content */
+    main {
+        margin-top: 57px;
+    }  
+
+    
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover{
+        border-bottom: 2px  solid #1c1c1c;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+        font-size: 120%;
+        font-weight:900;
+
+
+    #logo {
+        font-size: 150%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    main{
+        margin-top: 75px;
+    }
 }
