@@ -23,6 +23,7 @@
     <!-- Stylesheet-->
     <link rel="stylesheet" href="assets/css/style.css">
 
+
 </head>
 
 <body>
@@ -38,54 +39,104 @@
         <nav>
             <ul id="menu">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="history.html" >History</a></li>
+                <li><a href="history.html">History</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="book.html"  aria-current="page" id="book-time">Book time</a></li>
+                <li><a href="book.html" aria-current="page" id="book-time">Book time</a></li>
             </ul>
         </nav>
     </header>
 
     <!--Main content-->
-    <main>main</main>
+    <main>
+        <!--Booking section from bootstrap-->
+        <section id="booking" class="container">
+            <h2>Book a session with us</h2>
+            <form class="row g-3 " onsubmit="return showConfirmation(event)" id="bookingForm">
+                <div class="col-12 col-md-6">
+                    <label for="fname" class="form-label">First Name</label>
+                    <input type="text" class="form-control" id="fname">
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="lname" class="form-label">Last Name</label>
+                    <input type="text" class="form-control" id="lname" required>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="user@email.com" required>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="phone-number" class="form-label">Phone Number</label>
+                    <input type="number" class="form-control" id="phone-number" required>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="date" class="form-label">Date</label>
+                    <input type="date" class="form-control" id="date" required>
+                </div>
+                <div class="col-12 col-md-6">
+                    <label for="time" class="form-label">Booking Time</label>
+                    <input type="time" class="form-control" id="time" required>
+                </div>
+                <div class="col-12">
+                    <!-- 'Leave note' is just an opitional therefore I did't write the required attribute -->
+                    <label for="note" class="form-label">Leave a note</label>
+                    <textarea class="form-control" rows="4" id="note"></textarea>
+                </div>
+                <div class="col-12 pb-3">
+                    <button type="submit" class="btn btn-primary">Book Now</button>
+                </div>
+            </form>
+            <!-- Confirmation Message hidden -->
+            <div id="confirmation-message" class="col-12 text-center">
+                <h3>Booking Confirmed!</h3>
+                <p>Thank you <span id="confirmed-name"></span>!</p>
+                <p>Your booking for <span id="confirmed-date"></span> at <span id="confirmed-time"></span> o'clock has
+                    been
+                    confirmed.</p>
+                <p>A confirmation email has been sent to: <span id="confirmed-email"></span></p>
+                <a href="index.html" class="btn btn-primary text-center mb-6 ">Return to the home page</a>
+            </div>
+        </section>
+
+    </main>
 
 
     <!--Footer-->
     <footer id="Contact">
-            <!--Contact -->
-        
-            <div class="contact">
-                <h3> Contact</h3>
-                <span><i class="fa-solid fa-square-phone"></i> 01234658</span><br>
-                <span><i class="fa-solid fa-envelope"></i> choose.perfume@perfume.com</span>    
-            </div>
+        <!--Contact -->
 
-            <!--Social-network-->    
-            <div>
-                <h3 id="follow-us">Follow us</h3>
-                <ul id="social-networks">
-                    <li>
-                        <a href="https://www.facebook.com/" target="_blank" rel="noopener"
-                            aria-label="Visit our Facebook page (opens in a new tab)">
-                            <i class="fa-brands fa-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://www.x.com" target="_blank" rel="noopener"
-                            aria-label="Visit our x-twitter page (opens in a new tab)">
-                            <i class="fa-brands fa-x-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://www.youtube.com/" target="_blank" rel="noopener"
-                            aria-label="Visit our YouTube page (opens in a new tab)">
-                            <i class="fa-brands fa-youtube-square"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://www.instagram.com/" target="_blank" rel="noopener"
-                            aria-label="Visit our Instagram page (opens in a new tab)">
-                            <i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                </ul>
-    
-            </div>    
+        <div class="contact">
+            <h3> Contact</h3>
+            <span><i class="fa-solid fa-square-phone"></i> 01234658</span><br>
+            <span><i class="fa-solid fa-envelope"></i> choose.perfume@perfume.com</span>
+        </div>
+
+        <!--Social-network-->
+        <div>
+            <h3 id="follow-us">Follow us</h3>
+            <ul id="social-networks">
+                <li>
+                    <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                        aria-label="Visit our Facebook page (opens in a new tab)">
+                        <i class="fa-brands fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.x.com" target="_blank" rel="noopener"
+                        aria-label="Visit our x-twitter page (opens in a new tab)">
+                        <i class="fa-brands fa-x-twitter"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                        aria-label="Visit our YouTube page (opens in a new tab)">
+                        <i class="fa-brands fa-youtube-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                        aria-label="Visit our Instagram page (opens in a new tab)">
+                        <i class="fa-brands fa-instagram"></i></a>
+                </li>
+            </ul>
+
+        </div>
     </footer>
 
 
@@ -95,6 +146,32 @@
         </script>
     <!--Fontawesome -->
     <script src="https://kit.fontawesome.com/84c71096f4.js" crossorigin="anonymous"></script>
+
+    <!-- JS used for the confirmation message -->
+    <script>
+        function showConfirmation(event) {
+            // Prevent form from actually submitting (for demo)
+            event.preventDefault();
+
+            // Get form values
+            const name = document.getElementById('fname').value;
+            const email = document.getElementById('email').value;
+            const date = document.getElementById('date').value;
+            const time = document.getElementById('time').value;
+
+
+            // Display confirmation message with user's data
+            document.getElementById('confirmed-name').textContent = name;
+            document.getElementById('confirmed-email').textContent = email;
+            document.getElementById('confirmed-date').textContent = date;
+            document.getElementById('confirmed-time').textContent = time;
+
+            // Hide form and show confirmation
+            document.getElementById('bookingForm').style.display = 'none';
+            document.getElementById('confirmation-message').style.display = 'block';
+
+        }
+    </script>
 </body>
 
 </html>

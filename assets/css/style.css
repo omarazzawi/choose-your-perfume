@@ -12,7 +12,6 @@
 }
 
 
-/*General*/
 
 body {
     min-height: 100vh;
@@ -43,9 +42,9 @@ header a {
     text-decoration: none;
 }
 
-h1 {
+h1,h2 {
     padding: 1.5rem 0;
-    font-size: 150%;
+    font-size: 175%;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -104,6 +103,7 @@ nav {
     color: #1c1c1c;
     background-color: #597d71;
     text-decoration: none;
+    box-sizing: content-box;
 }
 
 
@@ -128,11 +128,41 @@ main {
 }
 
 
+/* Booking page */
+
+#booking h2 {
+    padding-bottom: 10px;
+    padding-top: 80px;
+}
+
+#booking .form-label {
+    font-weight: bold;
+}
+
+#booking .btn-primary {
+    border: #1c1c1c;
+    background-color: #597d71;
+    font-size: 120%;
+}
+
+
+#confirmation-message {
+    display: none;
+    background: white;
+    color: #1c1c1c;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+    border: 1px solid #1c1c1c;
+    justify-self: center;
+    width:fit-content;
+}
+
 
 /* Card sction */
 
 .card {
-    background-color: #597d71;
+    /*background-color: #597d71;*/
     text-align: justify;
 }
 
@@ -148,7 +178,7 @@ main {
 /*Footer*/
 
 footer {
-    background-color: #28353d
+    background-color: #28353d;
 }    
 
 
@@ -162,6 +192,22 @@ footer {
     text-align: center;
     padding-top: 10px;
     color: #597d71;
+}
+
+/* Diffrent hover style*/
+
+.fa-facebook:hover {
+    background-color:blue;
+}
+.fa-x-twitter:hover {
+    background-color:black;
+}
+.fa-youtube-square:hover {
+    background-color: #CD201F;
+}
+
+.fa-instagram:hover {
+    background-color:#ffdc80;
 }
 
 #social-networks {
