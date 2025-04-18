@@ -1,3 +1,4 @@
+
 /* Google fonts import*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
@@ -42,7 +43,7 @@ header a {
     text-decoration: none;
 }
 
-h1,h2 {
+h1 {
     padding: 1.5rem 0;
     font-size: 175%;
     font-weight: bold;
@@ -50,6 +51,16 @@ h1,h2 {
     letter-spacing: 1px;
     color: #1c1c1c;
     text-align: center;
+}
+
+h2 {
+    padding: 1.5rem 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #597d71;
+    text-align: center;
+    font-size: 160%;
 }
 
 #menu {
@@ -104,6 +115,8 @@ nav {
     background-color: #597d71;
     text-decoration: none;
     box-sizing: content-box;
+    
+
 }
 
 
@@ -114,10 +127,11 @@ nav {
 /*Main*/
 
 main {
-    background-color: #a7a3a3;
+    background-color: #1c1c1c;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 78px;
+    color: #597d71;
 }
 
 
@@ -171,6 +185,17 @@ main {
 
 #perfume-card .book-time{
     font-size: 150%;
+}
+
+/* History page */
+
+#history {
+    background-color: white;
+    color: #1c1c1c;
+}
+
+#history h2 {
+    padding-top: 75px;
 }
 
 
@@ -283,8 +308,8 @@ footer {
         min-height: 336px;
 
     }
-
     
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
