@@ -23,11 +23,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+
 /*Header*/
 
 header {
     background-color: #597d71;
-    padding: 0 1rem;
+    padding: 0 1.5rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -35,6 +36,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+
 
 
 }
@@ -127,7 +129,7 @@ nav {
 /*Main*/
 
 main {
-    background-color: #1c1c1c;
+    background-color:#0a0a0a;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 78px;
@@ -135,10 +137,9 @@ main {
 }
 
 
-
 .video {
     width: 100%;
-
+    padding-top: 67px;
 }
 
 
@@ -178,6 +179,7 @@ main {
 .card {
     /*background-color: #597d71;*/
     text-align: justify;
+    border: none;
 }
 
 
@@ -190,7 +192,6 @@ main {
 /* History page */
 
 #history {
-    background-color: #0a0a0a;
     padding-bottom: 50px;
     
 }
@@ -273,6 +274,14 @@ footer {
     main {
         margin-top: 60px;
     }
+    .video {
+        padding-top: 43px;
+    }
+
+    #history h2 {
+        padding-top: 86px;
+    }
+    
 }
 
 
@@ -286,11 +295,11 @@ footer {
         padding-bottom: 0px;      
     }
     nav {
+        padding-top: 1px;
         display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        
+        position:relative;
+        box-shadow: none; 
+        width:fit-content; 
     }
 
     #menu {
@@ -300,18 +309,19 @@ footer {
 
     #menu>li {
         padding-left: 1rem;
-        font-size: 100%;
+        font-size: 110%;
     }
 
     .nav-toggle-label {
         display: none;
     }
+}
 
     /* Main content */
     main {
         margin-top: 57px;
-    }  
-    
+    }
+  
     /* We set min-height to make the cards have the same frame dimension */
     #perfume-card .card-body {
         min-height: 336px;
@@ -319,10 +329,17 @@ footer {
     }
     
 
-}
+
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width:fit-content; 
+      }
 
    
     #menu a:hover{
