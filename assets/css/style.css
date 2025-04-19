@@ -190,14 +190,23 @@ main {
 /* History page */
 
 #history {
-    background-color: white;
-    color: #1c1c1c;
+    background-color: #0a0a0a;
+    padding-bottom: 50px;
+    
 }
 
 #history h2 {
     padding-top: 75px;
 }
-
+#history p {
+    text-align: justify;
+}
+#history a {
+    text-decoration: none;
+    font-weight: bold;
+    color: green ;
+    
+}
 
 
 /*Footer*/
