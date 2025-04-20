@@ -110,6 +110,7 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 - #### Credits
 
        ##### Content
+  
             - CSS love loverunning project.
             - Html nav-toggle love_running project.
             - Confirmation message JS deepseek AI.
@@ -119,6 +120,7 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
             - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
             - The icons in the footer were taken from Font [Awesome](https://fontawesome.com/kits)
             - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
+  
 
         ##### Media
               - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
