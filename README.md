@@ -22,7 +22,45 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
     - The landing page features a captivating video of a perfume bottle glistening under the rain, immersing users in the essence of fragrance.
   
    
-![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/b9746033c196097890ea01a21287ae141670ed08/the.landing.vedio.png)
+ - #### The Perfume questions section
+
+    - A shortcut to understand the fundamental questions before picking up a perfume.
+  
+   ![Image Alt]()
+
+
+ - #### The Perfume Cards
+   
+    - The three Essential Perfume cards highlight the only 3 fragrances you'll need to smell effortlessly good
+  
+   ![Image Alt]().
+
+
+ - #### The booking time button
+   
+    - Skip going back to the nav menu—book time here.
+  
+   ![Image Alt]().
+
+- ####The footer
+   
+    - Show the contact information, phone, and email, copyright, in addition to our page on social media.
+  
+   ![Image Alt]().
+
+  
+- #### The History page
+   
+    - Exploring the History and Meaning of Perfumes, reinforced with images to connect them to the topic , given the users an answer for question the folloer qustion:
+          - Why do we wear perfume?
+          - A brif hirstory of the Perfume's Origins.
+          - Modren perfumes.
+      
+   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/33a3f42ba57932dca8e4229d141f0c80403c59a0/history.png).
+
+
+   
+
 
  
 
