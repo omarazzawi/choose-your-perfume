@@ -97,8 +97,7 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 - #### Deployment
 
    - Access your GitHub repository and navigate to Settings
-
-           -  In the left sidebar, select Pages  
+     -  In the left sidebar, select Pages  
            -  Under Build and deployment > Source, choose:
            -  Branch: main
            -  Folder: /(root)
