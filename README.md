@@ -11,7 +11,7 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
 #### Navigation Bar
 
-A fully responsive navigation bar appears on all three pages, featuring the Logo, Home, History, and Booking links, along with a responsive contact option. The navigation bar is consistent across every page to ensure seamless and user-friendly browsing.
+Each page includes an identical responsive navigation bar for effortless navigation, containing links to the Logo, Home, History, Booking, and a contact section—all optimized for different screen sizes.
 
 ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/c1a8e219611e6f86d90f5e23b02da2916ec55924/navbar.png)
 
