@@ -63,13 +63,78 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
     - Through this page, the user can make appointments with an exact date and time, by giving the following information:
            - First and last name, email, phone number, time and date ( all pieces of informations are required)
            - Note (Optional)
+      
    ![Image Alt]().   
 
      - Confirmation message after the booking is completed.
 
       ![Image Alt]().        
-          
+
+
+   - ####  Future features
+        - Add a links page and Gallary page.
+    
+
+  - #### Testing
+
+
+    ##### Validator Testing
+      - HTML
+          - Bad value assets/images/pexels-behrouz-alimardani-the traces of your perfume.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.
+          - Error: Element input is missing required attribute role <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">↩
+    
+      - CSS
+         - No errors were found when passing through the official (Jigsaw) validator
+
+
+
+     ##### Lighthouse
+    
+        - The performance over 90%, the in order to make it better I have to change the videos photos remove bootstraps and front awesome
+           additionally to change background colour, after testing another colours,  the only colour it's really fits was the one I using therefore I decided to move forward with it.
+
+     ![Image Alt]().
+
+- #### Deployment
+
+   - Access your GitHub repository and navigate to Settings
+
+           -  In the left sidebar, select Pages  
+           -  Under Build and deployment > Source, choose:
+           -  Branch: main
+           -  Folder: /(root)
+           -  Click Save to initiate deployment
+           -  GitHub will automatically refresh and display a green deployment notification when complete
+           - live site will be available at: 
+
+- #### Credits
+
+       ##### Content
+            - CSS love loverunning project.
+            - Html nav-toggle love_running project.
+            - Confirmation message JS deepseek AI.
+            - Text editing deepseek AI.
+            - The text for the History page was taken from an article of Office for Science and Society McGill University.
+            - flesboxe ,postion , vedio explanation [brocode](https://www.youtube.com/@BroCodez)
+            - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
+            - The icons in the footer were taken from Font [Awesome](https://fontawesome.com/kits)
+            - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
+
+        ##### Media
+              - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
+              - The photos used on the Home page cards by me.
+              - The photos used on the history page are from pexels open Source [perxels] (https://www.pexels.com/) by Behrouz Alimardani and the other Anna Shvets.
+              
       
+  
+  
+  
+  
+  
+  
+    
+   
+            
   
 
 
