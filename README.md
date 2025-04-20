@@ -58,6 +58,20 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
       
    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/33a3f42ba57932dca8e4229d141f0c80403c59a0/history.png).
 
+  - #### The booking page
+   
+    - Through this page, the user can make appointments with an exact date and time, by giving the following information:
+           - First and last name, email, phone number, time and date ( all pieces of informations are required)
+           - Note (Optional)
+   ![Image Alt]().   
+
+     - Confirmation message after the booking is completed.
+
+      ![Image Alt]().        
+          
+      
+  
+
 
    
 
