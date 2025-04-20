@@ -7,9 +7,9 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
 ## Features
 
-###Existing Features
+### Existing Features
 
-####Navigation Bar
+#### Navigation Bar
 
 A fully responsive navigation bar appears on all three pages, featuring the Logo, Home, History, and Booking links, along with a responsive contact option. The navigation bar is consistent across every page to ensure seamless and user-friendly browsing.'
 
