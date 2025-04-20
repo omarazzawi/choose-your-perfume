@@ -90,8 +90,8 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
      ##### Lighthouse
     
-        - The performance over 90%, the in order to make it better I have to change the videos photos remove bootstraps and front awesome
-           additionally to change background colour, after testing another colours,  the only colour it's really fits was the one I using therefore I decided to move forward with it.
+             - The performance over 90%, the in order to make it better I have to change the videos photos remove bootstraps and front awesome
+              additionally to change background colour, after testing another colours,  the only colour it's really fits was the one I using therefore I decided to move forward with it.
     
 
      ![Image Alt]().
