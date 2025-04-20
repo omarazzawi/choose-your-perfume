@@ -4,3 +4,5 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
 
 ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/5ef86decde4287984ed6bf6e137b5dca5a25122d/shootscreen.png)
+
+## Features ##
