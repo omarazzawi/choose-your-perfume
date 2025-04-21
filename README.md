@@ -129,7 +129,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
            -  Folder: /(root)
            -  Click Save to initiate deployment
            -  GitHub will automatically refresh and display a green deployment notification when complete
-           - live site will be available at: 
+           - live site will be available at: [choose your perfume](https://omarazzawi.github.io/choose-your-perfume/).
 
 - #### Credits
     ##### Content
