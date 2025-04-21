@@ -19,7 +19,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
     - The landing page features a captivating video of a perfume bottle glistening under the rain, immersing users in the essence of fragrance.
 
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/navbar.png)
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/c7d62519d9e62a8848a205fc12ecaff4c20f4a3b/media/the.landing.vedio.png)
   
    
  - #### The Perfume questions section
@@ -101,8 +101,10 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
       - HTML
           - Bad value assets/images/pexels-behrouz-alimardani-the traces of your perfume.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.  solution : I rename the image
          ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/error1.png).
+
           - Error: Element input is missing required attribute role <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">↩  , solution: I removed aria attributes.
-         ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/error2.png).           
+  
+        ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/error2.png).           
     
       - CSS
          - No errors were found when passing through the official (Jigsaw) validator
