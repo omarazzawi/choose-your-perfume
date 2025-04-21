@@ -82,7 +82,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
     - I confirmed the user gets confirmation message after booking.
  
     #### Bugs
-    - The link contact in the navbar didn't work , the reason I did wrote it #Contact with capital C by mistake <li><a href="#Contact">Contact</a></li>
+    - The link  to the contact in the navbar didn't work , the reason I did wrote it #Contact with capital C by mistake, <li><a href="#Contact">Contact</a></li> while the class="contact" in small c.
     -
  
     #### unfixed Bugs
@@ -122,9 +122,9 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
     ##### Content
      - CSS love running project /code institute
      - Html nav-toggle love running project/ code institute
-     - Read me file code institute.
+     - Read me file / code institute.
      - Confirmation message JS code deepseek AI ( customized my me) . [deepseek](https://www.deepseek.com/).
-     - Text editing deepseek AI.[deepseek](https://www.deepseek.com/).
+     - Text editing deepseek AI.[deepseek](https://www.deepseek.com/). 
      - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume)
      - Flexbox, postion, vedio explanation [brocode](https://www.youtube.com/@BroCodez)
      - Flexbox, postion, vedio explanation [w3schools](https://www.w3schools.com/)
