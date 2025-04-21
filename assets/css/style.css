@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     /* genral color */
-    color: #272727;
+    color: #020202;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -129,7 +129,7 @@ nav {
 /*Main*/
 
 main {
-    background-color:#0a0a0a;
+    background-color:#020202;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 78px;
@@ -150,6 +150,7 @@ main {
     padding-top: 80px;
 }
 
+
 #booking .form-label {
     font-weight: bold;
 }
@@ -158,6 +159,13 @@ main {
     border: #1c1c1c;
     background-color: #597d71;
     font-size: 120%;
+}
+
+#booking p {
+    font-weight: bolder ;
+    font-size: 120%;
+
+
 }
 
 
