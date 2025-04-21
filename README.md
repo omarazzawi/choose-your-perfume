@@ -105,8 +105,8 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
 - #### Credits
     ##### Content
-         - CSS love running project.
-         - Html nav-toggle love running project.
+  - CSS love running project.
+  - Html nav-toggle love running project.
           - Confirmation message JS deepseek AI.
           - Text editing deepseek AI.
           - The text for the History page was taken from an article of Office for Science and Society McGill University.
