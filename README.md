@@ -104,8 +104,7 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
            - live site will be available at: 
 
 - #### Credits
-
-       ##### Content
+    ##### Content
          - CSS love running project.
          - Html nav-toggle love running project.
           - Confirmation message JS deepseek AI.
@@ -117,11 +116,11 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
           - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
  
 
-        ##### Media
-           - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
+   ##### Media
+        - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
            - The photos used on the Home page cards by me.
            - The photos used on the history page are from pexels open Source [perxels] (https://www.pexels.com/) by Behrouz Alimardani and the other Anna Shvets.
-              
+       
       
   
   
