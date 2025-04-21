@@ -25,6 +25,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
  - #### The Perfume questions section
 
     - A shortcut to understand the fundamental questions before picking up a perfume.
+    - 
   
    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/perfumes.questions.png)
 
@@ -42,7 +43,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
   
    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/book%20time%20button.png).
 
-- ####The footer
+- #### The footer
    
     - Show the contact information, phone, and email, copyright, in addition to our page on social media.
   
@@ -52,18 +53,20 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 - #### The History page
    
     - Exploring the History and Meaning of Perfumes, reinforced with images to connect them to the topic , given the users an answer for the following qustions:
+      
        - Why do we wear perfume?      
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/history.png).
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/history.png).
 
 
        - A brif hirstory of the Perfume's Origins.
       
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/history2.png).
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/history2.png).
+
+  
       
       - Modren perfumes.
 
   
-
   - #### The booking page
    
     - Through this page, the user can make appointments with an exact date and time, by giving the following information:
