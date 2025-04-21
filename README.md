@@ -75,29 +75,35 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
   - #### Testing
     - The testing show that the page works in different browsers: Chrome , microsoft internet explorer and firefox.
-    - The project is responsive , all features work on different screen devices.filed 
-    - The navigation, header, Histroy , contact and bookig fully function adn eary to use.
-    - I confirme that the booking fornm works required entries in in every field except the **Note**, Text in the name fileld, Number in the phone filed, email in the email filed, date in te date fileds and time in the time field.
+    - The project is responsive , all features work on different screen devices. 
+    - The navigation, header, Histroy , contact and bookig fully function and eary to use.
+    - I confirmed that the links in the website works and open in separate page.
+    - I confirmed that the booking fornm works required entries in in every field except the **Note**, Text in the name fileld, Number in the phone filed, email in the email filed, date in te date fileds and time in the time field.
+    - I confirmed the user gets confirmation message after booking.
  
     #### Bugs
+    - The link contact in the navbar didn't work , the reason I did wrote it #Contact with capital C by mistake <li><a href="#Contact">Contact</a></li>
+    -
  
     #### unfixed Bugs
-    - Disableing the past date in the bookig form the inpute date, in oreder to fix it I needed a JS code that's not covered this project.
+    - Disableing the past date in the inpute date booking form, in order to fix it I needed a JS code that's not covered this project.
      
 
     ##### Validator Testing
       - HTML
           - Bad value assets/images/pexels-behrouz-alimardani-the traces of your perfume.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.  solution : I rename the image
+         ![Image Alt]().
           - Error: Element input is missing required attribute role <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">↩  , solution: I removed aria attributes.
+         ![Image Alt]().           
     
       - CSS
          - No errors were found when passing through the official (Jigsaw) validator
 
 
 
-     ##### Lighthouse
-      - The performance over 90%, the in order to make it better I have to change the videos photos remove bootstraps and front awesome
-              additionally to change background colour, after testing another colours,  the only colour it's really fits was the one I using therefore I decided to move forward with it.    
+     ##### Lighthouse perfomrance 
+      - The performance over 90%, it was 70 % I fixed that by channge the cards images, but in order to make it better I have to change the video, images agin, remove bootstraps and front awesome
+        additionally to change background colour, after testing another colours,  the only colour it's really fits,  was the one I using therefore I decided to move forward with it.    
 
      ![Image Alt]().
 
@@ -117,7 +123,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
      - CSS love running project /code institute
      - Html nav-toggle love running project/ code institute
      - Read me file code institute.
-     - Confirmation message JS code deepseek AI. [deepseek](https://www.deepseek.com/).
+     - Confirmation message JS code deepseek AI ( customized my me) . [deepseek](https://www.deepseek.com/).
      - Text editing deepseek AI.[deepseek](https://www.deepseek.com/).
      - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume)
      - Flexbox, postion, vedio explanation [brocode](https://www.youtube.com/@BroCodez)
