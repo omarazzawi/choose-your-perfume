@@ -7,8 +7,6 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
 ## Features
 
-### Existing Features
-
  - #### Navigation Bar
 
     - Each page includes an identical responsive navigation bar for effortless navigation, containing links to the Logo, Home, History, Booking, and a contact section—all optimized for different screen sizes.
@@ -72,7 +70,7 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
 
    - ####  Future features
-        - Add a links page and Gallary page.
+        - Add a links and Gallary page.
     
 
   - #### Testing
@@ -80,8 +78,8 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 
     ##### Validator Testing
       - HTML
-          - Bad value assets/images/pexels-behrouz-alimardani-the traces of your perfume.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.
-          - Error: Element input is missing required attribute role <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">↩
+          - Bad value assets/images/pexels-behrouz-alimardani-the traces of your perfume.jpg for attribute src on element img: Illegal character in path segment: space is not allowed. I rename the image
+          - Error: Element input is missing required attribute role <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">↩  ,  I removed aria attributes.
     
       - CSS
          - No errors were found when passing through the official (Jigsaw) validator
@@ -108,22 +106,21 @@ Choose Your Perfume – Find the Perfect Scent for You or Someone Special. Choos
 - #### Credits
 
        ##### Content
-  
-            - CSS love loverunning project.
-            - Html nav-toggle love_running project.
-            - Confirmation message JS deepseek AI.
-            - Text editing deepseek AI.
-            - The text for the History page was taken from an article of Office for Science and Society McGill University.
-            - flesboxe ,postion , vedio explanation [brocode](https://www.youtube.com/@BroCodez)
-            - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
-            - The icons in the footer were taken from Font [Awesome](https://fontawesome.com/kits)
-            - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
-  
+          - CSS love running project.
+          - Html nav-toggle love running project.
+          - Confirmation message JS deepseek AI.
+          - Text editing deepseek AI.
+          - The text for the History page was taken from an article of Office for Science and Society McGill University.
+          - flesboxe ,postion , vedio explanation [brocode](https://www.youtube.com/@BroCodez)
+          - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
+          - The icons in the footer were taken from Font [Awesome](https://fontawesome.com/kits)
+          - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
+ 
 
         ##### Media
-              - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
-              - The photos used on the Home page cards by me.
-              - The photos used on the history page are from pexels open Source [perxels] (https://www.pexels.com/) by Behrouz Alimardani and the other Anna Shvets.
+           - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
+           - The photos used on the Home page cards by me.
+           - The photos used on the history page are from pexels open Source [perxels] (https://www.pexels.com/) by Behrouz Alimardani and the other Anna Shvets.
               
       
   
