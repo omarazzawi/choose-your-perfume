@@ -117,17 +117,17 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
      - CSS love running project /code institute
      - Html nav-toggle love running project/ code institute
      - Read me file code institute.
-     - Confirmation message JS code deepseek AI. [](https://www.deepseek.com/).
+     - Confirmation message JS code deepseek AI. [deepseek](https://www.deepseek.com/).
      - Text editing deepseek AI.[deepseek](https://www.deepseek.com/).
-     - The text for the History page was taken from an article of Office for Science and Society McGill University. [](https://www.mcgill.ca/oss/article/history/story-perfume)
+     - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume)
      - Flexbox, postion, vedio explanation [brocode](https://www.youtube.com/@BroCodez)
      - Flexbox, postion, vedio explanation [w3schools](https://www.w3schools.com/)
      - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
-     - colour picker [](https://imagecolorpicker.com/)
-     - Pick color online [](https://pickcoloronline.com/)
-     - Resize image [](https://imageresizer.com/)
-     - The icons in the footer were taken from Font [](https://fontawesome.com/kits)
-     - Bootstrap framework [](https://getbootstrap.com/)
+     - colour picker [color picker](https://imagecolorpicker.com/)
+     - Pick color online [Pick color online](https://pickcoloronline.com/)
+     - Resize images [Resize image](https://imageresizer.com/)
+     - The icons in the footer were taken from [Fontawesome](https://fontawesome.com/kits)
+     - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
  
   
 
