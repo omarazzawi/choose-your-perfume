@@ -93,8 +93,8 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
     - I confirmed the user gets confirmation message after booking.
  
     #### Bugs
-    - The contact link in the navbar didn't work , the reason I did wrote it #Contact with capital C by mistake, <li><a href="#Contact">Contact</a></li> while the class="contact" in small c.
-    -
+    - The contact link in the navbar didn't work , the reason I did wrote it #Contact with capital C by mistake,  href="#Contact" while the class="contact" in small c.
+  
  
     #### unfixed Bugs
     - Disableing the past date in the inpute date booking form, in order to fix it I needed a JS code that's not covered this project.
