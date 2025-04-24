@@ -4,7 +4,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
 ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/amIResponsive.png)
 
-[am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
+     [am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
 
 ## Features
 
@@ -34,7 +34,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
    
     - The three Essential Perfume cards highlight the only 3 fragrances you'll need to smell effortlessly good
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeCards.png).
+   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/perfumeCards.png).
 
 
  - #### The booking time button
@@ -62,7 +62,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historyFirstImg.png).
  
       
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historySecondImg.png).
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/historySecondImg.png).
 
       
 
@@ -74,11 +74,11 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
            - Note (Optional)
            - The price for the booking  session
       
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/bookingPage.png).   
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/bookingPage.png).   
 
      - Confirmation message after the booking is completed.
 
-      ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/confirmMessage.png).        
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/confirmMessage.png).        
 
 
    - ####  Future features
