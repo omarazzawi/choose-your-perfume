@@ -4,6 +4,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
 ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/shootscreen.png)
 
+[am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
 
 ## Features
 
@@ -136,6 +137,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
      - CSS love running project /code institute [love running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main).
      - Html nav-toggle love running project/ code institute  [love running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main).
      - Read me file / code institute.
+     - Spencer Barriball- guidance on your new perspectives on style design.
      - Confirmation message JS code deepseek AI ( customized my me) . [deepseek](https://www.deepseek.com/).
      - Text editing deepseek AI.[deepseek](https://www.deepseek.com/). 
      - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume)
@@ -154,7 +156,16 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
     - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
     - The photos used on the Home page cards by me.
     - The photos used on the history page are from pexels open Source [perxels] (https://www.pexels.com/) by Behrouz Alimardani and Anna Shvets.
-       
+
+- #### Read me file
+
+There are  a lot of deployments on readme file,z it's a personal mistake, I thought that I'm going to just save it not commit it so when I was editing I didn't realize that I was technically deploying the readme file.
+
+- #### Thanks
+
+Thank you to everybody help me get this project to the lights, Code Institute, my mentor,the photographers who donating their photos, videos
+
+   
       
   
   
