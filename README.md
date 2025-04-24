@@ -2,7 +2,7 @@
 
 Choose Your Perfume –  is your go-to guide for men’s fragrances, helping user discover a scent that matches your personality or find the perfect gift for someone they love in very smpile way, moreover with very few lines the user will know more about the history of perfume, why human wear perfumes? and allowed the user to book a session time.
 
-![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/shootscreen.png)
+![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/amIResponsive.png)
 
 [am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
 
@@ -12,7 +12,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
     - Each page includes an identical responsive navigation bar for effortless navigation, containing links to the Logo, Home, History, Booking, and a contact section—all optimized for different screen sizes.
 
-![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/navbar.png)
+![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/navbar.png)
 
 
 
@@ -20,34 +20,34 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
     - The landing page features a captivating video of a perfume bottle glistening under the rain, immersing users in the essence of fragrance.
 
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/c7d62519d9e62a8848a205fc12ecaff4c20f4a3b/media/the.landing.vedio.png)
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/theLandingVedio.png)
   
    
  - #### The Perfume questions section
 
     - A shortcut to understand the fundamental questions before picking up a perfume.
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/perfumes.questions.png)
+   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeQustion.png)
 
 
  - #### The Perfume Cards
    
     - The three Essential Perfume cards highlight the only 3 fragrances you'll need to smell effortlessly good
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/perfume.cards.png).
+   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeCards.png).
 
 
  - #### The booking time button
    
     - Skip going back to the nav menu—book time here.
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/book%20time%20button.png).
+   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/bookingButton.png).
 
 - #### The footer
    
     - Show the contact information, phone, and email, copyright, in addition to our page on social media.
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/footer.png).
+   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/footer.png).
 
   
 - #### The History page
@@ -59,10 +59,10 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
        - Modren perfumes.
       
         
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/history.png).
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historyFirstImg.png).
  
       
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/history2.png).
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historySecondImg.png).
 
       
 
@@ -74,11 +74,11 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
            - Note (Optional)
            - The price for the booking  session
       
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/booking.png).   
+   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/bookingPage.png).   
 
      - Confirmation message after the booking is completed.
 
-      ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/Book.confirm.png).        
+      ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/confirmMessage.png).        
 
 
    - ####  Future features
@@ -104,11 +104,11 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
     ##### Validator Testing
       - HTML
           - Bad value assets/images/pexels-behrouz-alimardani-the traces of your perfume.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.  solution : I rename the image
-         ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/error1.png).
+         ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/error1.png).
 
           - Error: Element input is missing required attribute role <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">↩  , solution: I removed aria attributes.
   
-        ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/error2.png).           
+        ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/error2.png).           
     
       - CSS
          - No errors were found when passing through the official (Jigsaw) validator
@@ -116,10 +116,10 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
 
      ##### Lighthouse perfomrance 
-      - The performance over 90%, it was 70 % I fixed that by channge the cards images, but in order to make it better I have to change the video, images agin, remove bootstraps and front awesome
-        additionally to change background colour, after testing another colours,  the only colour it's really fits,  was the one I using therefore I decided to move forward with it.    
+      - The performance  98%, in order to make it better I have to change the video, images agin, remove bootstraps and front awesome.
+          
 
-     ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/71209f7606b6698594228d6bffb84e7be9dfb6fd/media/lighthouse.png).
+     ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/lightHouse.png).
 
 - #### Deployment
 
