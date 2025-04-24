@@ -4,50 +4,51 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
 ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/amIResponsive.png)
 
-[am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
+
+ [am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
 
 ## Features
 
  - #### Navigation Bar
 
-    - Each page includes an identical responsive navigation bar for effortless navigation, containing links to the Logo, Home, History, Booking, and a contact section—all optimized for different screen sizes.
+   - Each page includes an identical responsive navigation bar for effortless navigation, containing links to the Logo, Home, History, Booking, and a contact section—all optimized for different screen sizes.
 
-![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/navbar.png)
+  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/navbar.png)
 
 
 
  - #### The landing page video
 
-    - The landing page features a captivating video of a perfume bottle glistening under the rain, immersing users in the essence of fragrance.
+   - The landing page features a captivating video of a perfume bottle glistening under the rain, immersing users in the essence of fragrance.
 
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/theLandingVedio.png)
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/ readmeShootscreenImages/theLandingVedio.png)
   
    
  - #### The Perfume questions section
 
     - A shortcut to understand the fundamental questions before picking up a perfume.
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeQustion.png)
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeQustion.png)
 
 
  - #### The Perfume Cards
    
     - The three Essential Perfume cards highlight the only 3 fragrances you'll need to smell effortlessly good
-  
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeCards.png).
+   
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeCards.png).
 
 
  - #### The booking time button
    
     - Skip going back to the nav menu—book time here.
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/bookingButton.png).
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/bookingButton.png).
 
 - #### The footer
    
     - Show the contact information, phone, and email, copyright, in addition to our page on social media.
   
-   ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/footer.png).
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/footer.png).
 
   
 - #### The History page
@@ -59,10 +60,10 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
        - Modren perfumes.
       
         
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historyFirstImg.png).
+     ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historyFirstImg.png).
  
       
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historySecondImg.png).
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historySecondImg.png).
 
       
 
@@ -78,7 +79,8 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
      - Confirmation message after the booking is completed.
 
-      ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/confirmMessage.png).        
+
+       ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/confirmMessage.png).        
 
 
    - ####  Future features
@@ -104,11 +106,12 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
     ##### Validator Testing
       - HTML
           - Bad value assets/images/pexels-behrouz-alimardani-the traces of your perfume.jpg for attribute src on element img: Illegal character in path segment: space is not allowed.  solution : I rename the image
-         ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/error1.png).
+
+           ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/error1.png).
 
           - Error: Element input is missing required attribute role <input type="checkbox" id="nav-toggle" name="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">↩  , solution: I removed aria attributes.
-  
-        ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/error2.png).           
+   
+           ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/error2.png).           
     
       - CSS
          - No errors were found when passing through the official (Jigsaw) validator
@@ -119,7 +122,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
       - The performance  98%, in order to make it better I have to change the video, images agin, remove bootstraps and front awesome.
           
 
-     ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/lightHouse.png).
+       ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/lightHouse.png).
 
 - #### Deployment
 
@@ -155,15 +158,15 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
    ##### Media
     - The video used on the Home page are from pexels open Source [perxels] (https://www.pexels.com/) by Mikhail Nilov.
     - The photos used on the Home page cards by me.
-    - The photos used on the history page are from pexels open Source [perxels] (https://www.pexels.com/) by Behrouz Alimardani and Anna Shvets.
+    - The photos used on the history page are from pexels open Source [perxels] (https://www.pexels.com/) by Behrouz Alimardani   and Anna Shvets.
 
 - #### Read me file
 
-There are  a lot of deployments on readme file,z it's a personal mistake, I thought that I'm going to just save it not commit it so when I was editing I didn't realize that I was technically deploying the readme file.
+    There are  a lot of deployments on readme file,z it's a personal mistake, I thought that I'm going to just save it not commit it so when I was editing I didn't realize that I was technically deploying the readme file.
 
 - #### Thanks
 
-Thank you to everybody help me get this project to the lights, Code Institute, my mentor,the photographers who donating their photos, videos
+   Thank you to everybody help me get this project to the lights, Code Institute, my mentor,the photographers who donating their photos, videos
 
    
       
