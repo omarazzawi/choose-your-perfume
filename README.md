@@ -84,8 +84,15 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
        ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/998de07cc099cd6059fe5f9bcda21c04d7538633/readmeShootscreenImages/confirmMessage.png).        
 
+ 
+   -  #### 404.html
+      - it's a customized page show the user that they are in the wrong page instead of the default one.
+      [Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/80683e428bd143737de72d399a25c6d651d43039/readmeShootscreenImages/page404.png).
+     
 
-   - ####  Future features
+     
+     
+   -  ####  Future features
         - Add a links and Gallary page.
     
 
