@@ -121,14 +121,15 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
 
      ##### Lighthouse perfomrance 
-      - The performance  98%, in order to make it better I have to change the video, images agin, remove bootstraps and front awesome.
+      - The performance  98%, in order to make it better I have to change the video, images agin, remove bootstraps and font awesome.
           
 
        ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/lightHouse.png).
 
 - #### Deployment
 
-   - Access your GitHub repository and navigate to Settings 
+   - I started the project by creating a new git repo with git init then i used git add . to add changes to the staging area, then i committed them with `git commit -m "succinct message" and then pushed to the remote repo Github with git push.
+   -  Access your GitHub repository and navigate to Settings 
      -  In the left sidebar, select Pages  
            -  Under Build and deployment > Source, choose:
            -  Branch: main
@@ -145,15 +146,16 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
      - Spencer Barriball- guidance on your new perspectives on style design.
      - Confirmation message JS code deepseek AI ( customized my me) . [deepseek](https://www.deepseek.com/).
      - Text editing deepseek AI.[deepseek](https://www.deepseek.com/). 
-     - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume)
-     - Flexbox, postion, vedio explanation [brocode](https://www.youtube.com/@BroCodez)
-     - Flexbox, postion, vedio explanation [w3schools](https://www.w3schools.com/)
-     - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
-     - colour picker [color picker](https://imagecolorpicker.com/)
-     - Pick color online [Pick color online](https://pickcoloronline.com/)
-     - Resize images [Resize image](https://imageresizer.com/)
-     - The icons in the footer were taken from [Fontawesome](https://fontawesome.com/kits)
-     - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
+     - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume).
+     - Flexbox, postion, vedio explanation [brocode](https://www.youtube.com/@BroCodez).
+     - Flexbox, postion, vedio explanation [w3schools](https://www.w3schools.com/).
+     - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video).
+     - colour picker [color picker](https://imagecolorpicker.com/).
+     - Pick color online [Pick color online](https://pickcoloronline.com/).
+     - Resize images [Resize image](https://imageresizer.com/).
+     - The icons in the footer were taken from [Fontawesome](https://fontawesome.com/kits).
+     - Bootstrap framework [Bootstrap ](https://getbootstrap.com/).
+     - Favicon. [favicon](https://favicon.io/).
  
   
 
