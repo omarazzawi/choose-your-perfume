@@ -276,6 +276,13 @@ footer {
     header {
         padding-bottom: 9px;
     }
+    
+    #home {
+        padding-bottom: 2rem;
+    }
+      
+  
+
 
     main {
         margin-top: 60px;
