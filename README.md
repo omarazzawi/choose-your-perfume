@@ -4,12 +4,9 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
 ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/amIResponsive.png)
 
-<<<<<<< HEAD
+
 
  [am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
-=======
-     [am i responsive](https://ui.dev/amiresponsive?url=https://omarazzawi.github.io/choose-your-perfume/index.html)
->>>>>>> 1f1d7a9e5d5b332896d67fa83c96bcfecafb10aa
 
 ## Features
 
@@ -25,7 +22,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
    - The landing page features a captivating video of a perfume bottle glistening under the rain, immersing users in the essence of fragrance.
 
-    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/ readmeShootscreenImages/theLandingVedio.png)
+    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/theLandingVedio.png)
   
    
  - #### The Perfume questions section
@@ -37,14 +34,10 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
  - #### The Perfume Cards
    
-    - The three Essential Perfume cards highlight the only 3 fragrances you'll need to smell effortlessly good
-<<<<<<< HEAD
-   
-    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/perfumeCards.png).
-=======
+    - The three Essential Perfume cards highlight the only 3 fragrances you'll need to smell effortlessly good.
   
    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/perfumeCards.png).
->>>>>>> 1f1d7a9e5d5b332896d67fa83c96bcfecafb10aa
+
 
 
  - #### The booking time button
@@ -72,11 +65,7 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
      ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historyFirstImg.png).
  
       
-<<<<<<< HEAD
-    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/historySecondImg.png).
-=======
-  ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/historySecondImg.png).
->>>>>>> 1f1d7a9e5d5b332896d67fa83c96bcfecafb10aa
+     ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/historySecondImg.png).
 
       
 
@@ -88,16 +77,12 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
            - Note (Optional)
            - The price for the booking  session
       
-    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/bookingPage.png).   
+       ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/19a254cdf25d37a79adfa765b6f0e0d3a07fe67a/readmeShootscreenImages/bookingPage.png).   
 
-     - Confirmation message after the booking is completed.
+    - Confirmation message after the booking is completed.
 
-<<<<<<< HEAD
 
-       ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/confirmMessage.png).        
-=======
-    ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/confirmMessage.png).        
->>>>>>> 1f1d7a9e5d5b332896d67fa83c96bcfecafb10aa
+       ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/998de07cc099cd6059fe5f9bcda21c04d7538633/readmeShootscreenImages/confirmMessage.png).        
 
 
    - ####  Future features
@@ -136,14 +121,15 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
 
 
      ##### Lighthouse perfomrance 
-      - The performance  98%, in order to make it better I have to change the video, images agin, remove bootstraps and front awesome.
+      - The performance  98%, in order to make it better I have to change the video, images agin, remove bootstraps and font awesome.
           
 
        ![Image Alt](https://github.com/omarazzawi/choose-your-perfume/blob/a211a5844aba909bc526fdedd4a4aa89cd423889/readmeShootscreenImages/lightHouse.png).
 
 - #### Deployment
 
-   - Access your GitHub repository and navigate to Settings 
+   - I started the project by creating a new git repo with git init then i used git add . to add changes to the staging area, then i committed them with `git commit -m "succinct message" and then pushed to the remote repo Github with git push.
+   -  Access your GitHub repository and navigate to Settings 
      -  In the left sidebar, select Pages  
            -  Under Build and deployment > Source, choose:
            -  Branch: main
@@ -160,15 +146,16 @@ Choose Your Perfume –  is your go-to guide for men’s fragrances, helping use
      - Spencer Barriball- guidance on your new perspectives on style design.
      - Confirmation message JS code deepseek AI ( customized my me) . [deepseek](https://www.deepseek.com/).
      - Text editing deepseek AI.[deepseek](https://www.deepseek.com/). 
-     - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume)
-     - Flexbox, postion, vedio explanation [brocode](https://www.youtube.com/@BroCodez)
-     - Flexbox, postion, vedio explanation [w3schools](https://www.w3schools.com/)
-     - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
-     - colour picker [color picker](https://imagecolorpicker.com/)
-     - Pick color online [Pick color online](https://pickcoloronline.com/)
-     - Resize images [Resize image](https://imageresizer.com/)
-     - The icons in the footer were taken from [Fontawesome](https://fontawesome.com/kits)
-     - Bootstrap framework [Bootstrap ](https://getbootstrap.com/)
+     - The text for the History page was taken from an article . [Office for Science and Society](https://www.mcgill.ca/oss/article/history/story-perfume).
+     - Flexbox, postion, vedio explanation [brocode](https://www.youtube.com/@BroCodez).
+     - Flexbox, postion, vedio explanation [w3schools](https://www.w3schools.com/).
+     - Vedio tag [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video).
+     - colour picker [color picker](https://imagecolorpicker.com/).
+     - Pick color online [Pick color online](https://pickcoloronline.com/).
+     - Resize images [Resize image](https://imageresizer.com/).
+     - The icons in the footer were taken from [Fontawesome](https://fontawesome.com/kits).
+     - Bootstrap framework [Bootstrap ](https://getbootstrap.com/).
+     - Favicon. [favicon](https://favicon.io/).
  
   
 
